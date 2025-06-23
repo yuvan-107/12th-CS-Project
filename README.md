@@ -1,4 +1,4 @@
-The objective of the project is to create a useful program for an imaginary Animal Rescue NGO. 
+The objective of the project is to create a useful program for an imaginary Animal Rescue NGO using tkinter library. 
 
 The NGO which, obviously, rescues animals will have the need to store some stuff. This application will help the NGO to store the required data. 
 
